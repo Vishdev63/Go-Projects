@@ -1,2 +1,2 @@
 # Go-Projects
-Projects based on Go Lang
+Projects based on Go-Lang
